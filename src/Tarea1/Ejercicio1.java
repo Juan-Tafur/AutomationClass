@@ -11,7 +11,7 @@ public class Ejercicio1 {
     public static void main (String args[]){
         Scanner scanner = new Scanner(System.in);
         complementoej1 firstClass = new complementoej1();
-        System.out.println("Ingrese una adjetivo");
+        System.out.println("Ingrese un adjetivo");
         primeraCadena = scanner.next();
         System.out.println("Ingrese una estacion");
         segundaCadena = scanner.next();
