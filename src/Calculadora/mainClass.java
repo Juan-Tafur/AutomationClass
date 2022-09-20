@@ -13,7 +13,7 @@ public class mainClass {
         calculadora multiplicaciones = new calculadora();
         calculadora divisiones = new calculadora();
 
-        System.out.println("Inserte el simbolo de operacion que quiere realizar:");
+        System.out.println("Inserte el simbolo de la operacion que quiere realizar:");
         String operacion = scanner.next();
 
         switch (operacion) {
